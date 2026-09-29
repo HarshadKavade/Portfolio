@@ -193,7 +193,7 @@ export const projects = [
       { label: "Resilience", value: "100% Offline-Safe SOS Queue" }
     ],
     githubUrl: "https://github.com/HarshadKavade/SafeJourney",
-    liveUrl: "https://github.com/HarshadKavade/SafeJourney",
+    liveUrl: "https://sahyatri-self.vercel.app/",
     gradient: "from-rose-500/20 via-purple-500/20 to-indigo-500/20",
     borderAccent: "group-hover:border-rose-500/50",
     iconName: "ShieldAlert"
@@ -228,7 +228,7 @@ export const projects = [
       { label: "Database", value: "MongoDB Normalized Schemas" }
     ],
     githubUrl: "https://github.com/vrushabhdarekar22/DevCollab-backend.git",
-    liveUrl: "https://github.com/vrushabhdarekar22/DevCollab-backend.git",
+    liveUrl: "https://dev-collab-frontend-79h6.vercel.app/",
     gradient: "from-blue-500/20 via-indigo-500/20 to-cyan-500/20",
     borderAccent: "group-hover:border-blue-500/50",
     iconName: "Users"
@@ -261,8 +261,7 @@ export const projects = [
       { label: "Agentic Framework", value: "LangChain Chains & Tools" },
       { label: "Web Search", value: "Tavily Integration" }
     ],
-    githubUrl: "https://github.com/HarshadKavade/Pbl_project",
-    liveUrl: "https://github.com/HarshadKavade/Pbl_project",
+    
     gradient: "from-purple-500/20 via-pink-500/20 to-amber-500/20",
     borderAccent: "group-hover:border-purple-500/50",
     iconName: "Bot"
